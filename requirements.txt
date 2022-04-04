@@ -1,0 +1,4 @@
+zc.buildout
+Pillow==6.2.2
+plonecli
+tox 
